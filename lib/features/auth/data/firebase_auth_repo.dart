@@ -1,5 +1,6 @@
 /*
 
+future me check this to make it again
 https://firebase.google.com/docs/flutter/setup?hl=ru&platform=ios
 
 
